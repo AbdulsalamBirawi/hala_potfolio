@@ -21,13 +21,15 @@ const Footer = () => {
         <div className="footer__social">
           <a
             className="footer__social-link"
-            href="http://www.linkedin.com/in/abdalsalam-albirawi"
+            href="https://www.linkedin.com/in/hala-babelly-bb15332bb/"
+            target="_blank"
           >
             <i class="bx bxl-linkedin"></i>
           </a>
           <a
             className="footer__social-link"
-            href="https://www.facebook.com/abdsalam.birawi.3"
+            href="https://www.facebook.com/hala.babelly"
+            target="_blank"
           >
             <i class="bx bxl-facebook"></i>
           </a>
